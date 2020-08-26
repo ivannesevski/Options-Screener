@@ -1,0 +1,32 @@
+#table-div {
+    margin: auto;
+    width: 80%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+th {
+    background-color: black;
+}
+
+tr {
+    cursor: pointer;
+}
+
+#symbol-desc {
+    font-size: 30px;
+    padding-right: 5px;
+}
+
+#ticker {
+    font-size: 30px;
+    padding-left: 5px;
+}
+
+#share-price {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+#price-change {
+    font-size: 48px;
+}
